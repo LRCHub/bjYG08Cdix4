@@ -1,32 +1,96 @@
 {
   "version": 1,
-  "base_track": "猿芝居",
-  "base_artist": "natori",
-  "createdAt": "2025-12-04T13:59:14.258242Z",
+  "base_track": "メーベル",
+  "base_artist": "なとり",
+  "createdAt": "2025-12-20T08:43:20.330961Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "猿芝居",
-      "artist": "なとり",
+      "title": "メーベル",
+      "artist": "バルーン",
       "has_synced": true,
-      "path": "select/01_猿芝居_なとり.lrc"
+      "path": "select/01_メーベル_バルーン.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "猿芝居",
-      "artist": "Natori",
+      "title": "メーベル",
+      "artist": "バルーン feat. v flower",
       "has_synced": true,
-      "path": "select/02_猿芝居_Natori.lrc"
+      "path": "select/02_メーベル_バルーン_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_メーベル_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メーベル (self cover)",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/04_メーベル_(self_cover)_balloon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "この子",
+      "has_synced": false,
+      "path": "select/05_メーベル_この子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/06_メーベル_balloon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メーベル／flower",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/07_メーベル_flower_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メーベル／バルーン(self cover)",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/08_メーベル_バルーン(self_cover)_Keina_Suda.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "Eve x Sou",
+      "has_synced": true,
+      "path": "select/09_メーベル_Eve_x_Sou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メーベル",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/10_メーベル_なとり.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "猿芝居",
+      "title": "メーベル",
       "artist": "なとり",
       "has_synced": false,
-      "path": "select/pl_01_猿芝居_なとり.txt"
+      "path": "select/pl_01_メーベル_なとり.txt"
     }
   ]
 }
